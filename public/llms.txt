@@ -1,0 +1,57 @@
+# יוון בזול — Generative Engine Optimization Map
+
+> A תיירות ונסיעות business.
+
+---
+
+## Pages
+
+### בית
+https://-7dcb80cb.zappy5.app
+מחפשים טיסות זולות ליוון? גלו דילים מדהימים על טיסות ליוון עם יוון בזול. השוו מחירים ותכננו את החופשה המושלמת שלכם!
+
+### שירותים
+https://-7dcb80cb.zappy5.app/services
+גלו את מגוון השירותים שלנו למציאת טיסות זולות ליוון: חיפוש מתקדם, התראות על דילים, השוואת מחירים ועוד. חסכו עד 40% על הטיסה!
+
+### אודות
+https://-7dcb80cb.zappy5.app/about
+למדו על יוון בזול - הפלטפורמה המובילה למציאת טיסות זולות ליוון. הסיפור שלנו, המשימה שלנו והמחויבות שלנו לעזור לכם לחסוך.
+
+### צור קשר
+https://-7dcb80cb.zappy5.app/contact
+יש לכם שאלות על טיסות זולות ליוון? צרו קשר עם יוון בזול והצוות שלנו יעזור לכם למצוא את הדיל הטוב ביותר. אנחנו כאן בשבילכם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-7dcb80cb.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-7dcb80cb.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-7dcb80cb.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About יוון בזול
+יוון בזול is a business in the תיירות ונסיעות industry.
+
+## Target Audience
+מטיילים ליוון
+
+## Industry
+תיירות ונסיעות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-7dcb80cb.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-7dcb80cb.zappy5.app/robots.txt
